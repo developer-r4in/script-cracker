@@ -2,7 +2,7 @@
 * > UI Leaked 
 * > Resource UI Script and Universal Scripter 
 # Xeon & Friends 
-* Discord : https://discord.gg/HAhWMyd3Qe 
+* Discord : [![Discord Shield](https://discord.com/api/guilds/660711235766976553/widget.png?style=shield)](https://discord.gg/HAhWMyd3Qe)
 * Owner : RR4in 
 > Thanks For Using :>
 
