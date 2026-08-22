@@ -6,4 +6,4 @@
 * Owner : RR4in 
 > Thanks For Using :>
 
-<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/2fce7ea0-4d5d-4215-bc81-2b0053169e48" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2fce7ea0-4d5d-4215-bc81-2b0053169e48" />
